@@ -1,9 +1,8 @@
 
 # HooBank - Digital Payment LandingPage (React.js, Tailwind CSS) 
 
-A Modern and Light React Application - Digital Payment LandingPage
+A Modern and Light React Application - Digital Payment LandingPage Build with **React.js** and **Tailwind CSS**. 
 
-Build with **React.js** and **Tailwind CSS**. 
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/z9yaVLR.png)
@@ -16,5 +15,6 @@ Build with **React.js** and **Tailwind CSS**.
 Check out the **Live Version** here 👉 https://mdbanklb.netlify.app
 
 
-Thank You For Your Time ❤
 
+
+<p align="center"> Thank You For Your Time ❤ </p> 
